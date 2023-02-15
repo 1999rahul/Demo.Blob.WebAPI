@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "swPQHDSORJZauvhlvKZvdLMB3PhL5j0oIHvLXDq8EEE=",
+  "Source": "FileUpload.BLOB.WebAPI",
+  "BasePath": "_content/FileUpload.BLOB.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
